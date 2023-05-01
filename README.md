@@ -42,7 +42,8 @@ given date.
   * ReBalance Portfolio Unequally (weight for each stock is provided)
 - Exit the program
 
-Screen Shot:
+Screen Shots:
+
 <img width="398" alt="GUI_sample" src="https://user-images.githubusercontent.com/36084170/235487144-8eaab87d-ec63-4985-a542-4b6d21ded806.png">
 <img width="1148" alt="performance_graph" src="https://user-images.githubusercontent.com/36084170/235487176-2c54a94d-2503-4fac-9bb5-b29a5f67a56b.png">
 
